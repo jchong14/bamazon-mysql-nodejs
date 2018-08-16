@@ -1,0 +1,16 @@
+{
+  "name": "hw-8-mysql",
+  "version": "1.0.0",
+  "description": "homework mysql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ji",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquire": "^0.4.8",
+    "mysql": "^2.16.0"
+  }
+}
